@@ -76,3 +76,9 @@ Oasis_Task1_Retail_Sales_EDA/
 ├── Task1_Retail_Sales_EDA.ipynb
 ├── retail_sales_dataset.csv
 └── README.md
+
+## Internship Details
+
+**Organization:** Oasis Infobyte  
+**Track:** Data Analytics  
+**Task:** Task 1 – EDA on Retail Sales Data
