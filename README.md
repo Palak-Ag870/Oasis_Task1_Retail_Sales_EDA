@@ -76,6 +76,7 @@ Oasis_Task1_Retail_Sales_EDA/
 ├── Task1_Retail_Sales_EDA.ipynb
 ├── retail_sales_dataset.csv
 └── README.md
+```
 
 ## Internship Details
 
